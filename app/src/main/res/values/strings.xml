@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Wai Lun</string>
+    <string name="pic">myprofile</string>
+    <string name="my_profile_description">DOB: 1/1/2020\n\nAddress: 123,Jalan Pasar, Taman Hijau,83000 Batu Pahat,\n
+        \n
+        \n
+        Hobbies: Badminton, Basketball</string>
+</resources>
